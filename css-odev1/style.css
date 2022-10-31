@@ -1,0 +1,22 @@
+/* Stilleri sakladığım yer burası
+*/
+h1 {
+    color: darkblue;
+}
+.Baslik {
+    text-align: center;
+    font-size: 28px;
+    
+}
+.ortalama {
+    list-style-position: inside;
+}
+
+.orta {
+    text-align: center;
+    list-style-position: inside;
+}
+.bold {
+    font-weight: 700;
+    font-size: 18px;
+}
