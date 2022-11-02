@@ -1,0 +1,32 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.search{
+    background-color: rgb(238, 238, 238);
+    margin: 0 50px 2px 50px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 17fr 9fr 20fr;
+    gap: 2px;
+}
+.Green1 {
+    background-color: #7EE5DA;
+    text-align: center;
+    padding-top: 2%;
+    margin-left: 50px;
+}
+.Green2 {
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 2%;
+}
+.Green3 {
+    background-color: #62B3AA;
+    text-align: center;
+    margin-right: 50px;
+    
+}
