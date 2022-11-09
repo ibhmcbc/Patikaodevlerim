@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+.baws {
+
+    align-items: flex-start;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.baws ul {
+    display: flex;
+    list-style: none;
+    width: 600px;
+    padding: 10px 0 0 20px;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+.jumbotron {
+    background: #e9ecef;
+    width: 100%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.body {
+    background: #e9ecef;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+}
+
+.card-text {
+    text-align: center;
+
+}
+.row {
+    justify-content: center;
+}
+.container { 
+    margin-top: 20px;
+}
+
+.img-pad {
+    margin-top: 10px;
+}
